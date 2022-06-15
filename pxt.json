@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "light": "*"
+        "device": "*"
     },
     "files": [
         "main.blocks",
@@ -20,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.26",
+        "target": "1.8.22",
         "targetId": "arcade"
     },
     "supportedTargets": [
